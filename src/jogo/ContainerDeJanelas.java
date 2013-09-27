@@ -25,7 +25,7 @@ public class ContainerDeJanelas extends JFrame{
 			@Override
 			public void actionPerformed(ActionEvent e) {
 
-				JOptionPane.showMessageDialog(null, "Jogo desenvolvido por Rafael Sanzio!", "Informa��es", JOptionPane.INFORMATION_MESSAGE);
+				JOptionPane.showMessageDialog(null, "Jogo desenvolvido por Rafael Sanzio!", "Informações", JOptionPane.INFORMATION_MESSAGE);
 			}
 		});
 		
